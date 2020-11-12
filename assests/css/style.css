@@ -1,0 +1,58 @@
+
+#myicon{
+    width: 15%;
+		margin: auto;
+		margin-top: 2%;
+		text-align: center;
+}
+
+#myicon img{
+	width: 30%;
+align-items: center;
+}
+#my{
+		margin-left:3% ;
+		text-align: center;
+}
+#Welcome{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: cursive sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial ;
+  font-size: 0.8em;
+}
+
+#display{
+  width: 30%;
+  align-items: center;
+  margin: auto;
+}
+
+#social-media{
+  width: auto;
+  margin-right: 50%;
+}
+
+#logo-txt{
+  font-size: 0.7em;
+  color: rgba(255, 0, 0, 0.623);
+}
+#social-media span {
+  width: 30px;
+  height: 30px;
+  padding-top: 2%;
+  align-items: center;
+  text-align: center;
+  background-color:rgba(255, 0, 0, 0.603);
+  color: #ffffff;
+  border-radius: 50%;
+}
+#vd{
+  height: 5%;
+  width: -2%;
+  margin: ;
+}
+#collection{
+  width: 20%;
+  height: auto;
+margin: auto;
+}

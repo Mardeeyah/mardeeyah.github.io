@@ -1,0 +1,41 @@
+.banner-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 4%;
+    font-weight: 900;
+    
+}
+
+.banner-brief{
+    text-align: justify;
+    margin-left: 4%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.btn-custom{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    margin-left: 4%;
+
+}
+
+.banner-img{
+    height: 200px;
+    background-image: url('../cakes/stayhome.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 300px;
+    background-color: rgb(220,231,253);
+    border-radius: 10px;
+
+}
+
+.spacer{
+  margin-top: 50px;
+}
